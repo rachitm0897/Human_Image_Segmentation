@@ -1,4 +1,4 @@
-# Human Iamge Segmentation 
+# Human Image Segmentation 
 This README provides an overview of a project that implements human segmentation using the U-Net model, a popular deep learning architecture for image segmentation tasks. The project aims to segment human subjects from images or videos, making it a valuable tool for a wide range of applications, including image editing, surveillance, and computer vision.
 
 # Introduction
